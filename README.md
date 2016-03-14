@@ -18,4 +18,4 @@ Though this is simple project for getting started with CXF Webservices, there co
 [asjava]:http://www.asjava.com/web-services/web-services-hello-world-example-with-cxf/
 [stackoverflow]: http://stackoverflow.com/questions/27035304/java-lang-runtimeexception-cannot-create-a-secure-xmlinputfactory-when-deployin
 [cxf codegen plugin]: http://cxf.apache.org/docs/maven-cxf-codegen-plugin-wsdl-to-java.html
-[cxf codegen plugin]: http://cxf.apache.org/docs/application-server-specific-configuration-guide.html
+[as configuration]: http://cxf.apache.org/docs/application-server-specific-configuration-guide.html
