@@ -6,7 +6,7 @@ Though this is simple project for getting started with CXF Webservices, there co
 * [asjava] - Web Services Hello World Example with CXF
 * [cxf codegen plugin] - CXF includes a Maven plugin which can generate java artifacts from WSDL.
 * [stackoverflow] - Cannot create a secure XMLInputFactory
-* [as configuration] - Describes Application server specific configuration
+* [as configuration] - Describes Application server (glassfish) specific configuration that is added to the project
 
 ### Tools used
 * IntelliJ IDEA
